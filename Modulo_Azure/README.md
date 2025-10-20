@@ -44,22 +44,22 @@ Consulte [aquí](https://docs.google.com/document/d/1HZBAXLlAC45OD_cOCPQu13nlAo_
 
 ---
 
-Consulte la documentación del módulo [aquí]()
+Consulte la documentación del módulo [aquí](https://docs.google.com/presentation/d/1ulNv-ExJ5lrc5EiQ1XGiZl7vJmcPWc3CZhwWI-dLgys/edit?slide=id.g389d40b04e5_1_85#slide=id.g389d40b04e5_1_85)
 
 
 ## Azure Blob Storage
 
 ---
 
-Consulte la documentación del módulo [aquí]()
+Consulte la documentación del módulo [aquí](https://docs.google.com/presentation/d/1ioc2vkftU440yd_akWZ9KQSIOm8JGE0TEYccc-2ZJo0/edit?slide=id.g389d40b04e5_1_85#slide=id.g389d40b04e5_1_85)
 
 ## Azure Functions 
 
 ---
 
 Consulte la documentación del módulo 
-[Parte 1]()
-[Parte 2]()
+[Parte 1](https://docs.google.com/presentation/d/1ynRXIWrDlpnEYaDu5k4KbJ8Pk3UaxH0QDgR2AO2E__U/edit?slide=id.g389d40b04e5_1_85#slide=id.g389d40b04e5_1_85)
+[Parte 2](https://docs.google.com/presentation/d/15HX4POKmkS3PddVPzHC0AVSdGfuEX-fr2vPmM7LYR1Y/edit?slide=id.g389d40b04e5_1_85#slide=id.g389d40b04e5_1_85)
 
 ---
 
@@ -67,33 +67,33 @@ Consulte la documentación del módulo
 
 ---
 
-Consulte la documentación del módulo [aquí]()
+Consulte la documentación del módulo [aquí](https://docs.google.com/presentation/d/1lVWzCdCAiMIaUU5Ht6TNbN1AXCOOLLp6vPdMOpFsCbA/edit?slide=id.g389d40b04e5_1_85#slide=id.g389d40b04e5_1_85)
 
 
 ## Azure DevOps
 
 ---
 
-Consulte la documentación del módulo [aquí]()
+Consulte la documentación del módulo [aquí](https://docs.google.com/presentation/d/1Nb3bLL6-1vvZNi5nYSdI7bRAaZ1_IlLpoeI4MHsdxZs/edit?slide=id.g389d40b04e5_1_85#slide=id.g389d40b04e5_1_85)
 
 
 ## CI - Integración Continua
 ***
 
-Consulte la documntación del módulo [aquí]()
+Consulte la documntación del módulo [aquí](https://docs.google.com/presentation/d/18zfOY1V0Y8vchxxZA9AE56AJd_vL_aj1mNKndqN4vvE/edit?slide=id.g389d40b04e5_1_85#slide=id.g389d40b04e5_1_85)
 
 
 ## CD - Despliegue Continuo
 ***
 
-Consulte la documentación del módulo [aquí]()
+Consulte la documentación del módulo [aquí](https://docs.google.com/presentation/d/1sgbSG272mHdNfLdcIfR71G6m4v7g-lhpsY5W4Gfzvpw/edit?slide=id.g389d40b04e5_1_85#slide=id.g389d40b04e5_1_85)
 
 ## Key Vault y Gestión de Secretos
 ***
 
-Consulte la documentación del módulo [aquí]()
+Consulte la documentación del módulo [aquí](https://docs.google.com/presentation/d/1g9mBH9em1BGzTOCUsvRwMF8lSSAJn_SHSVGEpvPGPkA/edit?slide=id.g389d40b04e5_1_85#slide=id.g389d40b04e5_1_85)
 
 ## Buenas Prácticas y Seguridad
 ***
 
-Consulte la documentación del módulo [aquí]()
+Consulte la documentación del módulo [aquí](https://docs.google.com/presentation/d/1p5OBSKZ1uHXXWYshX2n8O-jsg_0zP7L3Uie_USZEnLI/edit?slide=id.g389d40b04e5_1_85#slide=id.g389d40b04e5_1_85)
