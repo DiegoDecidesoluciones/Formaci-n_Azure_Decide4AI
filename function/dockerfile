@@ -1,0 +1,15 @@
+# Usa una imagen oficial de Microsoft que ya tiene el runtime de Azure Functions y Python 3.9
+FROM [mcr.microsoft.com/azure-functions/python:4-python3.9](https://mcr.microsoft.com/azure-functions/python:4-python3.9)
+
+# Crea una variable de entorno para que el runtime sepa que estamos en un entorno Python
+ENV AzureWebJobsScriptRoot=/home/site/wwwroot \
+    AzureFunctionsJobHost__Logging__Console__IsEnabled=true
+
+# Copia el fichero de requerimientos de Python a la imagen
+COPY requirements.txt /
+
+# Ejecuta el comando 'pip install' DENTRO de la imagen para instalar las librerías
+RUN pip install -r /requirements.txt
+
+# Copia el resto del código de nuestra aplicación a la carpeta de trabajo
+COPY . /home/site/wwwroot
