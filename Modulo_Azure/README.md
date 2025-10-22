@@ -44,22 +44,22 @@ Consulte [aquí](https://docs.google.com/document/d/1HZBAXLlAC45OD_cOCPQu13nlAo_
 
 ---
 
-Consulte la documentación del módulo [aquí](https://docs.google.com/presentation/d/1ulNv-ExJ5lrc5EiQ1XGiZl7vJmcPWc3CZhwWI-dLgys/edit?slide=id.g389d40b04e5_1_85#slide=id.g389d40b04e5_1_85)
+Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/Informacin%20comn/Charlas%20internas%20y%20Demos/Azure%20Fundamentals/Formaci%C3%B3n_Azure_Repsol/Dia%202_%20Roles%20y%20Seguridad%20en%20Azure.pptx?d=wd9a607d5085b4c9b91be6186bb69cd27&csf=1&web=1&e=w5Vn43)
 
 
 ## Azure Blob Storage
 
 ---
 
-Consulte la documentación del módulo [aquí](https://docs.google.com/presentation/d/1ioc2vkftU440yd_akWZ9KQSIOm8JGE0TEYccc-2ZJo0/edit?slide=id.g389d40b04e5_1_85#slide=id.g389d40b04e5_1_85)
+Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/Informacin%20comn/Charlas%20internas%20y%20Demos/Azure%20Fundamentals/Formaci%C3%B3n_Azure_Repsol/Dia%203_%20Azure%20Blob%20Storage.pptx?d=w9d19eb7c317046059ea5a1f655b87a41&csf=1&web=1&e=H4Pwnf)
 
 ## Azure Functions 
 
 ---
 
 Consulte la documentación del módulo 
-[Parte 1](https://docs.google.com/presentation/d/1ynRXIWrDlpnEYaDu5k4KbJ8Pk3UaxH0QDgR2AO2E__U/edit?slide=id.g389d40b04e5_1_85#slide=id.g389d40b04e5_1_85)
-[Parte 2](https://docs.google.com/presentation/d/15HX4POKmkS3PddVPzHC0AVSdGfuEX-fr2vPmM7LYR1Y/edit?slide=id.g389d40b04e5_1_85#slide=id.g389d40b04e5_1_85)
+[Parte 1](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/Informacin%20comn/Charlas%20internas%20y%20Demos/Azure%20Fundamentals/Formaci%C3%B3n_Azure_Repsol/D%C3%ADa%204_%20Azure%20Functions%20(Parte%201).pptx?d=w38074b85e3884095a16700f8e2f2aef2&csf=1&web=1&e=7sTRRf)
+[Parte 2](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/Informacin%20comn/Charlas%20internas%20y%20Demos/Azure%20Fundamentals/Formaci%C3%B3n_Azure_Repsol/D%C3%ADa%205_%20Azure%20Functions%20(Parte%202).pptx?d=w64bdffab822748f6bfcda2a0991c52f9&csf=1&web=1&e=Wx2Lft)
 
 ---
 
@@ -67,33 +67,33 @@ Consulte la documentación del módulo
 
 ---
 
-Consulte la documentación del módulo [aquí](https://docs.google.com/presentation/d/1lVWzCdCAiMIaUU5Ht6TNbN1AXCOOLLp6vPdMOpFsCbA/edit?slide=id.g389d40b04e5_1_85#slide=id.g389d40b04e5_1_85)
+Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/Informacin%20comn/Charlas%20internas%20y%20Demos/Azure%20Fundamentals/Formaci%C3%B3n_Azure_Repsol/D%C3%ADa%206_%20Docker.pptx?d=w47dc0115ac304f93a627cdbfac5a2bf9&csf=1&web=1&e=TdXVQC)
 
 
 ## Azure DevOps
 
 ---
 
-Consulte la documentación del módulo [aquí](https://docs.google.com/presentation/d/1Nb3bLL6-1vvZNi5nYSdI7bRAaZ1_IlLpoeI4MHsdxZs/edit?slide=id.g389d40b04e5_1_85#slide=id.g389d40b04e5_1_85)
+Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/Informacin%20comn/Charlas%20internas%20y%20Demos/Azure%20Fundamentals/Formaci%C3%B3n_Azure_Repsol/D%C3%ADa%207_%20Azure%20DevOps.pptx?d=wede4e89499284ddd9624bc9869fcad80&csf=1&web=1&e=GPSZ9q)
 
 
 ## CI - Integración Continua
 ***
 
-Consulte la documntación del módulo [aquí](https://docs.google.com/presentation/d/18zfOY1V0Y8vchxxZA9AE56AJd_vL_aj1mNKndqN4vvE/edit?slide=id.g389d40b04e5_1_85#slide=id.g389d40b04e5_1_85)
+Consulte la documntación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/Informacin%20comn/Charlas%20internas%20y%20Demos/Azure%20Fundamentals/Formaci%C3%B3n_Azure_Repsol/D%C3%ADa%208_%20CI_CD%20%E2%80%94%20Integraci%C3%B3n%20Continua%20(CI).pptx?d=wbab5183107e042c3b0b4683b6ee6c3e9&csf=1&web=1&e=ASEerS)
 
 
 ## CD - Despliegue Continuo
 ***
 
-Consulte la documentación del módulo [aquí](https://docs.google.com/presentation/d/1sgbSG272mHdNfLdcIfR71G6m4v7g-lhpsY5W4Gfzvpw/edit?slide=id.g389d40b04e5_1_85#slide=id.g389d40b04e5_1_85)
+Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/Informacin%20comn/Charlas%20internas%20y%20Demos/Azure%20Fundamentals/Formaci%C3%B3n_Azure_Repsol/D%C3%ADa%209_%20CD%20(Despliegue%20Continuo).pptx?d=w1bae3c659d5a40f69f2b4d5ed42cee41&csf=1&web=1&e=c6HSam)
 
 ## Key Vault y Gestión de Secretos
 ***
 
-Consulte la documentación del módulo [aquí](https://docs.google.com/presentation/d/1g9mBH9em1BGzTOCUsvRwMF8lSSAJn_SHSVGEpvPGPkA/edit?slide=id.g389d40b04e5_1_85#slide=id.g389d40b04e5_1_85)
+Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/Informacin%20comn/Charlas%20internas%20y%20Demos/Azure%20Fundamentals/Formaci%C3%B3n_Azure_Repsol/D%C3%ADa%2010_%20Key%20Vault%20y%20Gesti%C3%B3n%20de%20Secretos.pptx?d=w023db6d035e647088a3a90073ea560d8&csf=1&web=1&e=YITKgN)
 
 ## Buenas Prácticas y Seguridad
 ***
 
-Consulte la documentación del módulo [aquí](https://docs.google.com/presentation/d/1p5OBSKZ1uHXXWYshX2n8O-jsg_0zP7L3Uie_USZEnLI/edit?slide=id.g389d40b04e5_1_85#slide=id.g389d40b04e5_1_85)
+Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/Informacin%20comn/Charlas%20internas%20y%20Demos/Azure%20Fundamentals/Formaci%C3%B3n_Azure_Repsol/D%C3%ADa%2011_%20Buenas%20Pr%C3%A1cticas%20y%20Seguridad.pptx?d=wd07ffe29a45c461685c22d28c935fc28&csf=1&web=1&e=HjbQe4)
