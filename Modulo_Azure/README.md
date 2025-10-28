@@ -37,8 +37,6 @@ Cheat sheet de los servicios de Azure consultar [aquí](https://tutorialsdojo.co
 
 Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/_layouts/15/Doc.aspx?sourcedoc=%7BC517F7FA-626B-45F5-8F92-0BE3586D94BF%7D&file=D%C3%ADa%201_%20Fundamentos%20de%20Cloud%20y%20Azure.pptx&action=edit&mobileredirect=true)
 
-Consulte [aquí](https://docs.google.com/document/d/1HZBAXLlAC45OD_cOCPQu13nlAo_GntQL/edit?usp=share_link&ouid=102384283797243178688&rtpof=true&sd=true) los 10 mejores servicios de Microsoft Azure 
-
 
 ## Roles y Seguridad en Azure
 
