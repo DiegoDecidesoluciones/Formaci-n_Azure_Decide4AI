@@ -49,7 +49,7 @@ Consulte la documentación del módulo [aquí](https://decidesoluciones365.share
 
 ---
 
-Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/Informacin%20comn/Charlas%20internas%20y%20Demos/Azure%20Fundamentals/Formaci%C3%B3n_Azure_Repsol/Dia%203_%20Azure%20Blob%20Storage.pptx?d=w9d19eb7c317046059ea5a1f655b87a41&csf=1&web=1&e=H4Pwnf)
+Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/_layouts/15/Doc.aspx?sourcedoc=%7BA8447EFE-973C-4220-AD44-AF21C856B653%7D&file=Dia%203_%20Azure%20Blob%20Storage.pptx&action=edit&mobileredirect=true)
 
 ## Azure Functions 
 
