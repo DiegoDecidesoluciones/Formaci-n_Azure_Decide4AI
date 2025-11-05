@@ -56,7 +56,7 @@ Consulte la documentación del módulo [aquí](https://decidesoluciones365.share
 ---
 
 Consulte la documentación del módulo 
-[Parte 1](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/Informacin%20comn/Charlas%20internas%20y%20Demos/Azure%20Fundamentals/Formaci%C3%B3n_Azure_Repsol/D%C3%ADa%204_%20Azure%20Functions%20(Parte%201).pptx?d=w38074b85e3884095a16700f8e2f2aef2&csf=1&web=1&e=7sTRRf)
+[Parte 1](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/_layouts/15/Doc.aspx?sourcedoc=%7BA05F94FB-F0C5-44A9-9D9C-4AE0D58C2088%7D&file=D%C3%ADa%204_%20Azure%20Functions%20(Parte%201).pptx&action=edit&mobileredirect=true)
 [Parte 2](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/Informacin%20comn/Charlas%20internas%20y%20Demos/Azure%20Fundamentals/Formaci%C3%B3n_Azure_Repsol/D%C3%ADa%205_%20Azure%20Functions%20(Parte%202).pptx?d=w64bdffab822748f6bfcda2a0991c52f9&csf=1&web=1&e=Wx2Lft)
 
 ---
