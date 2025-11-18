@@ -57,7 +57,7 @@ Consulte la documentación del módulo [aquí](https://decidesoluciones365.share
 
 Consulte la documentación del módulo 
 [Parte 1](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/_layouts/15/Doc.aspx?sourcedoc=%7BA05F94FB-F0C5-44A9-9D9C-4AE0D58C2088%7D&file=D%C3%ADa%204_%20Azure%20Functions%20(Parte%201).pptx&action=edit&mobileredirect=true)
-[Parte 2](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/Informacin%20comn/Charlas%20internas%20y%20Demos/Azure%20Fundamentals/Formaci%C3%B3n_Azure_Repsol/D%C3%ADa%205_%20Azure%20Functions%20(Parte%202).pptx?d=w64bdffab822748f6bfcda2a0991c52f9&csf=1&web=1&e=Wx2Lft)
+[Parte 2](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/_layouts/15/Doc.aspx?sourcedoc=%7B4B4574B6-AE42-42A4-A384-A57F2C9ED88A%7D&file=D%C3%ADa%205_%20Azure%20Functions%20(Parte%202).pptx&action=edit&mobileredirect=true)
 
 ---
 
@@ -95,3 +95,5 @@ Consulte la documentación del módulo [aquí](https://decidesoluciones365.share
 ***
 
 Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/Informacin%20comn/Charlas%20internas%20y%20Demos/Azure%20Fundamentals/Formaci%C3%B3n_Azure_Repsol/D%C3%ADa%2011_%20Buenas%20Pr%C3%A1cticas%20y%20Seguridad.pptx?d=wd07ffe29a45c461685c22d28c935fc28&csf=1&web=1&e=HjbQe4)
+
+
