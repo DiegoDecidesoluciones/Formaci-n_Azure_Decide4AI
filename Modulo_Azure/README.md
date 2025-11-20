@@ -65,7 +65,7 @@ Consulte la documentación del módulo
 
 ---
 
-Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/Informacin%20comn/Charlas%20internas%20y%20Demos/Azure%20Fundamentals/Formaci%C3%B3n_Azure_Repsol/D%C3%ADa%206_%20Docker.pptx?d=w47dc0115ac304f93a627cdbfac5a2bf9&csf=1&web=1&e=TdXVQC)
+Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/_layouts/15/Doc.aspx?sourcedoc=%7BB8713BF9-12BA-429A-9369-8FCB4353FD31%7D&file=D%C3%ADa%206_%20Docker.pptx&action=edit&mobileredirect=true)
 
 
 ## Azure DevOps
