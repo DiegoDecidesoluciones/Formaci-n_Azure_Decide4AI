@@ -72,7 +72,7 @@ Consulte la documentación del módulo [aquí](https://decidesoluciones365.share
 
 ---
 
-Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/Informacin%20comn/Charlas%20internas%20y%20Demos/Azure%20Fundamentals/Formaci%C3%B3n_Azure_Repsol/D%C3%ADa%207_%20Azure%20DevOps.pptx?d=wede4e89499284ddd9624bc9869fcad80&csf=1&web=1&e=GPSZ9q)
+Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/_layouts/15/Doc.aspx?sourcedoc=%7B20C34ACB-BC5D-4AA2-B3EC-C2AB2380D5AB%7D&file=D%C3%ADa%207_%20Azure%20DevOps.pptx&action=edit&mobileredirect=true)
 
 
 ## CI - Integración Continua
