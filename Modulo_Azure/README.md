@@ -78,7 +78,7 @@ Consulte la documentación del módulo [aquí](https://decidesoluciones365.share
 ## CI - Integración Continua
 ***
 
-Consulte la documntación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/Informacin%20comn/Charlas%20internas%20y%20Demos/Azure%20Fundamentals/Formaci%C3%B3n_Azure_Repsol/D%C3%ADa%208_%20CI_CD%20%E2%80%94%20Integraci%C3%B3n%20Continua%20(CI).pptx?d=wbab5183107e042c3b0b4683b6ee6c3e9&csf=1&web=1&e=ASEerS)
+Consulte la documntación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/_layouts/15/Doc.aspx?sourcedoc=%7BDC1E14C2-17A3-4A21-9E0E-6DB130614E29%7D&file=D%C3%ADa%208_%20CI_CD%20%E2%80%94%20Integraci%C3%B3n%20Continua%20(CI).pptx&action=edit&mobileredirect=true)
 
 
 ## CD - Despliegue Continuo
