@@ -84,7 +84,7 @@ Consulte la documntación del módulo [aquí](https://decidesoluciones365.sharep
 ## CD - Despliegue Continuo
 ***
 
-Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/Informacin%20comn/Charlas%20internas%20y%20Demos/Azure%20Fundamentals/Formaci%C3%B3n_Azure_Repsol/D%C3%ADa%209_%20CD%20(Despliegue%20Continuo).pptx?d=w1bae3c659d5a40f69f2b4d5ed42cee41&csf=1&web=1&e=c6HSam)
+Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/_layouts/15/Doc.aspx?sourcedoc=%7B1CD20B3E-61B6-4255-995D-7EF1E9A3FFE6%7D&file=D%C3%ADa%209_%20CD%20(Despliegue%20Continuo).pptx&action=edit&mobileredirect=true)
 
 ## Key Vault y Gestión de Secretos
 ***
