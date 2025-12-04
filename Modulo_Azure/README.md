@@ -89,7 +89,7 @@ Consulte la documentación del módulo [aquí](https://decidesoluciones365.share
 ## Key Vault y Gestión de Secretos
 ***
 
-Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/Informacin%20comn/Charlas%20internas%20y%20Demos/Azure%20Fundamentals/Formaci%C3%B3n_Azure_Repsol/D%C3%ADa%2010_%20Key%20Vault%20y%20Gesti%C3%B3n%20de%20Secretos.pptx?d=w023db6d035e647088a3a90073ea560d8&csf=1&web=1&e=YITKgN)
+Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/_layouts/15/Doc.aspx?sourcedoc=%7B9A29A998-085B-4A7C-8E14-4F29879D5A98%7D&file=D%C3%ADa%2010_%20Key%20Vault%20y%20Gesti%C3%B3n%20de%20Secretos.pptx&action=edit&mobileredirect=true)
 
 ## Buenas Prácticas y Seguridad
 ***
