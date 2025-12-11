@@ -19,6 +19,7 @@
 - [CD - Despliegue Continuo](#cd---despliegue-continuo)
 - [Key Vault y Gestión de Secretos](#key-vault-y-gestión-de-secretos)
 - [Buenas Prácticas y Seguridad](#buenas-prácticas-y-seguridad)
+- [Arquitectura de Optimizacion & practica final](#arquitectura-de-optimizacion-&-practica final)
 - [Facturación de precios](#facturación-de-precios)
 
 
@@ -96,4 +97,7 @@ Consulte la documentación del módulo [aquí](https://decidesoluciones365.share
 
 Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/_layouts/15/Doc.aspx?sourcedoc=%7BC88E1791-F729-447D-9A60-3C85B13E1411%7D&file=D%C3%ADa%2011_%20Buenas%20Pr%C3%A1cticas%20y%20Seguridad.pptx&action=edit&mobileredirect=true)
 
+## Arquitectura de Optimizacion & practica final
+***
 
+Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/_layouts/15/Doc.aspx?sourcedoc=%7B0B791BBE-337C-43F9-95B4-1A4B268FD279%7D&file=D%C3%ADa%2012_%20Arquitectura%20de%20Optimizaci%C3%B3n.pptx&action=edit&mobileredirect=true)
