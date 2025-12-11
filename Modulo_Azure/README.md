@@ -43,7 +43,7 @@ Consulte la documentación del módulo [aquí](https://decidesoluciones365.share
 
 ---
 
-Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/_layouts/15/Doc.aspx?sourcedoc=%7BEA2772C3-1260-4DFE-8E04-0F3110F587F4%7D&file=Dia%202_%20Roles%20y%20Seguridad%20en%20Azure.pptx&action=edit&mobileredirect=true)
+Consulte la documentación del módulo [aquí](https://decidesoluciones365.sharepoint.com/:p:/r/sites/IA/_layouts/15/Doc.aspx?sourcedoc=%7B347A3E0B-C4E7-4409-BFF2-A21EA9EF3519%7D&file=Dia%202_%20Roles%20y%20Seguridad%20en%20Azure.pptx&action=edit&mobileredirect=true)
 
 
 ## Azure Blob Storage
